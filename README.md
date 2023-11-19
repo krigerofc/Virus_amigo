@@ -17,6 +17,8 @@ funções que são leves.</p>
 + Abrir paginas aleatorias
 + Abrir varios cmds
 + Criar arquivos de texto na area de trabalho.
++ Travar a vitima por alguns segundos
++ Provocar erros do windows
 
 # Eventos
  
