@@ -110,7 +110,7 @@ class Metodos:
 
     def iniciar():
         while True:
-            tempo = randint(0, 10)
+            tempo = randint(60, 180)
             sleep(tempo)
 
             lista = [Metodos.pesquisa,Metodos.cmd,Metodos.notepad,
